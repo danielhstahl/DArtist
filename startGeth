@@ -1,0 +1,1 @@
+geth --testnet --rpc --ipcpath /home/daniel/.ethereum/geth.ipc --unlock=0 --password="psswd"
